@@ -1,0 +1,24 @@
+{
+  "name": "telos-frontend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch": "npx tailwindcss  -i ./BTVN2/input.css -o ./BTVN2/output.css --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soulowlsg/telos-frontend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/soulowlsg/telos-frontend/issues"
+  },
+  "homepage": "https://github.com/soulowlsg/telos-frontend#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.4.17"
+  }
+}
